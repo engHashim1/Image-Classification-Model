@@ -22,6 +22,7 @@ test.jpg: Sample image for testing.
 sample_data/: Directory containing additional sample data.
 
 Pictures
+
 ![Uploading image.png…]()
 
 ![لقطة شاشة 2025-06-30 230350](https://github.com/user-attachments/assets/80dc00b9-696b-4b3e-a6b4-e2740b9ab0c7)
