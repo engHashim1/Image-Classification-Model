@@ -22,12 +22,13 @@ test.jpg: Sample image for testing.
 sample_data/: Directory containing additional sample data.
 
 Pictures
+![Uploading image.png…]()
+
 ![لقطة شاشة 2025-06-30 230350](https://github.com/user-attachments/assets/80dc00b9-696b-4b3e-a6b4-e2740b9ab0c7)
 
 ![لقطة شاشة 2025-06-30 233757](https://github.com/user-attachments/assets/ee6fab6b-17cc-4a27-9f86-f064787d3330)
 
 ![لقطة شاشة 2025-06-30 233742](https://github.com/user-attachments/assets/3cfa1edd-903c-40ba-aed3-e6a3ce389a10)
-![image](https://github.com/user-attachments/assets/9c66b2c3-e94e-4cfe-aa9b-4deb8bcce976)
 
 Usage
 
